@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-huggingface
+langchain-core
+langgraph
+chromadb
+sentence-transformers
+pypdf
+pydantic
+ollama
+requests
+torch
+transformers

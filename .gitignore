@@ -1,0 +1,31 @@
+# Virtual environment
+Include/
+Lib/
+Scripts/
+share/
+tools/
+pyvenv.cfg
+
+# Node modules (both locations)
+node_modules/
+whatsapp_bridge/node_modules/
+
+# WhatsApp session
+whatsapp_bridge/.wwebjs_auth/
+whatsapp_bridge/.wwebjs_cache/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Database (auto-rebuilt)
+project/chroma_db/
+project/data/clean_text/
+
+# Secrets
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
